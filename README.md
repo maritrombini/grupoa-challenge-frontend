@@ -1,5 +1,5 @@
 
-# Code Challenge for GrupoA
+# Code Challenge for GrupoA Front-end
 
 
 ## Frameworks / Tecnologias utilizadas
