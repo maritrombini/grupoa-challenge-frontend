@@ -11,3 +11,9 @@
 ## Descrição da implementação
 - API para gestão de alunos. 
 - Na resposta da requisição, teremos retorno de status confirmando se o aluno foi incluído, editado ou deletado. 
+
+## Link Netlify 
+[rodar](#comando-para-rodar)
+
+
+[GrupoA-Netlify](https://nostalgic-clarke-1fd042.netlify.app/ )
