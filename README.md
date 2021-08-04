@@ -1,5 +1,5 @@
 
-# Code Challenge for A+Educação - V1
+# Code Challenge for GrupoA
 
 
 ## Frameworks / Tecnologias utilizadas
