@@ -1,24 +1,13 @@
-# ga-frontv2
 
-## Project setup
-```
-npm install
-```
+# Code Challenge for A+Educação - V1
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Frameworks / Tecnologias utilizadas
+* PHP / Laravel
+* MySQL
+* Vuetify
+* VueRouter
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Descrição da implementação
+- API para gestão de alunos. 
+- Na resposta da requisição, teremos retorno de status confirmando se o aluno foi incluído, editado ou deletado. 
